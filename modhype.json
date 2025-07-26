@@ -125,6 +125,77 @@
     "size": "100 MB",
     "image": "https://www.stumbleguys.com/og.jpg"
   },
+   ,
+{
+  "name": "Free Fire (MOD, AimBot/Unlimited Diamonds)",
+  "description": "Step into the battlegrounds with enhanced aiming and unlimited diamonds. Dominate Free Fire lobbies with powerful MOD features and custom skins.",
+  "category": "Shooter, Battle Royale",
+  "size": "750 MB",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1689370/header.jpg"
+},
+{
+  "name": "GTA V Mobile (MOD, Full Game/Unlocked Vehicles)",
+  "description": "Experience the full Grand Theft Auto V on mobile! With MOD access to all vehicles, weapons, and missions, this is the ultimate crime sandbox.",
+  "category": "Action, Open World",
+  "size": "3.2 GB",
+  "image": "https://assetsio.reedpopcdn.com/gta-v-guide-header.jpg"
+},
+{
+  "name": "PUBG Mobile (MOD, Wallhack/No Recoil)",
+  "description": "Survive and conquer with this PUBG MOD featuring wallhack, no recoil, and unlimited UC. Play like a pro with zero limits.",
+  "category": "Shooter, Battle Royale",
+  "size": "2.0 GB",
+  "image": "https://cdn.mos.cms.futurecdn.net/56PtDh3qBh4cHRkPzXp4eN.jpg"
+},
+{
+  "name": "Among Us (MOD, Always Impostor/Skins Unlocked)",
+  "description": "Play as the impostor every time and unlock all skins in this fun, deceitful party game. MOD features add chaos to every match!",
+  "category": "Multiplayer, Strategy",
+  "size": "150 MB",
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/945360/header.jpg"
+},
+{
+  "name": "FIFA Mobile 2024 (MOD, Unlimited Coins/Unlocked Players)",
+  "description": "Build your dream football team with all players unlocked and unlimited coins. Compete in leagues and dominate FIFA Mobile like never before.",
+  "category": "Sports, Football",
+  "size": "900 MB",
+  "image": "https://www.fifplay.com/img/public/fifa-mobile-23-cover.jpg"
+},
+{
+  "name": "Spider-Man Miles Morales (Android Port, Full Game)",
+  "description": "Swing through New York as Miles Morales in this Android port. Includes full story mode and epic superhero battles in stunning graphics.",
+  "category": "Action, Adventure",
+  "size": "3.6 GB",
+  "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2921/6Z7mA7QEu2qHxFHHuQibwHkW.png"
+},
+{
+  "name": "Tekken 8 (MOD, All Fighters Unlocked)",
+  "description": "Fight with your favorite Tekken characters on mobile! This MOD version of Tekken 8 gives you all fighters and combos unlocked for fierce battles.",
+  "category": "Fighting, Action",
+  "size": "2.1 GB",
+  "image": "https://cdn.wccftech.com/wp-content/uploads/2023/01/Tekken-8.jpg"
+},
+{
+  "name": "Hello Neighbor (MOD, Unlocked/No Ads)",
+  "description": "Sneak into your neighbor’s creepy house with all items unlocked and no ads to interrupt your stealth. A thrilling horror puzzle experience.",
+  "category": "Horror, Puzzle",
+  "size": "1.0 GB",
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/521890/header.jpg"
+},
+{
+  "name": "Dragon Ball Legends (MOD, One Hit/Unlimited Crystals)",
+  "description": "Unleash devastating powers in Dragon Ball Legends MOD with one-hit kills and unlimited crystals to summon top-tier characters.",
+  "category": "Fighting, Anime",
+  "size": "600 MB",
+  "image": "https://cdn-us.animeonlinesub.com/uploads/thumbs/1630154097_dragon-ball-legends.jpg"
+},
+{
+  "name": "Horizon Chase Turbo (MOD, All Cars Unlocked)",
+  "description": "A retro-inspired racing game with all vehicles unlocked and no limits. Race through vibrant landscapes with fast-paced arcade action.",
+  "category": "Racing, Arcade",
+  "size": "800 MB",
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/389140/header.jpg"
+}
   {
     "name": "Minecraft Pocket Edition (MOD, Unlocked Skins/Items)",
     "description": "Build anything you can imagine in Minecraft PE. The MOD version unlocks all skins, worlds, and special items to fuel your creativity endlessly.",
