@@ -1,0 +1,1681 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="MobVex - Your ultimate source for premium game mods. Enhance your gameplay with thousands of mods, cheats, and custom content for popular titles.">
+  <meta name="keywords" content="game mods, modded games, premium mods, game cheats, game hacks, custom content, mobvex">
+  <meta name="author" content="MobVex Team">
+  
+  <!-- Open Graph / Social Media Meta Tags -->
+  <meta property="og:title" content="MobVex | Premium Mods for Enhanced Gameplay">
+  <meta property="og:description" content="Unlock the full potential of your games with MobVex's premium mod collection. Transform your gaming experience with exclusive content.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://mobvex.com">
+  <meta property="og:image" content="https://mobvex.com/images/og-image.jpg">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="MobVex | Premium Mods for Enhanced Gameplay">
+  <meta name="twitter:description" content="Transform your games with MobVex's premium mod collection. One-click downloads for unlimited gaming possibilities.">
+  <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KFMPL2LS3S"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-KFMPL2LS3S');
+    </script>
+
+  <!-- Structured Data for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "MobVex",
+    "url": "https://mobvex.com/",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://mobvex.com/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  
+  <title>MobVex - Premium Game Mods | Unlock Hidden Features & Unlimited Gameplay</title>
+  <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- AdBluemedia Content Locker -->
+  <script type="text/javascript">
+    var uuEWV_vCo_XYuMgc={"it":4535629,"key":"8b08a"};
+  </script>
+  <script src="https://dlk457skl57zp.cloudfront.net/a1f618b.js"></script>
+  
+  <style>
+    :root {
+      --main-bg: #0a0a12;
+      --secondary-bg: #161622;
+      --primary-color: #00f0ff;
+      --secondary-color: #ff00aa;
+      --accent-color: #7700ff;
+      --text-color: #ffffff;
+      --card-bg: #1e1e2d;
+      --shadow: 0 0 25px rgba(0, 240, 255, 0.3);
+      --warning-color: #ffaa00;
+      --success-color: #00ff88;
+      --review-bg: rgba(255, 255, 255, 0.08);
+      --neon-glow: 0 0 10px rgba(0, 240, 255, 0.7);
+    }
+    
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Oxanium', sans-serif;
+    }
+    
+    body {
+      background-color: var(--main-bg);
+      color: var(--text-color);
+      line-height: 1.6;
+      overflow-x: hidden;
+      min-height: 100vh;
+      background-image: 
+        radial-gradient(circle at 20% 30%, rgba(0, 240, 255, 0.05) 0%, transparent 30%),
+        radial-gradient(circle at 80% 70%, rgba(255, 0, 170, 0.05) 0%, transparent 30%);
+    }
+    
+    /* Glowing Border Effect */
+    .glow-border {
+      position: relative;
+    }
+    
+    .glow-border::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: inherit;
+      padding: 2px;
+      background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+      -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+      -webkit-mask-composite: xor;
+      mask-composite: exclude;
+      pointer-events: none;
+    }
+    
+    #loader {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background-color: var(--main-bg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      flex-direction: column;
+      animation: fadeOut 1.5s forwards ease-in-out;
+    }
+    
+    #loader h1 {
+      color: var(--primary-color);
+      font-size: 3.5rem;
+      animation: fadeInZoom 1.5s ease forwards;
+      text-shadow: var(--neon-glow);
+      margin-bottom: 1.5rem;
+    }
+    
+    .loader-spinner {
+      width: 50px;
+      height: 50px;
+      border: 5px solid rgba(0, 240, 255, 0.3);
+      border-radius: 50%;
+      border-top-color: var(--primary-color);
+      animation: spin 1s ease-in-out infinite;
+      box-shadow: var(--neon-glow);
+    }
+    
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+    
+    @keyframes fadeInZoom {
+      0% { opacity: 0; transform: scale(0.8); }
+      100% { opacity: 1; transform: scale(1); }
+    }
+    
+    @keyframes fadeOut {
+      0% { opacity: 1; }
+      100% { opacity: 0; visibility: hidden; }
+    }
+    
+    #content {
+      display: none;
+      opacity: 0;
+      animation: fadeInContent 1s forwards ease-in-out;
+    }
+    
+    @keyframes fadeInContent {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    
+    header {
+      background-color: rgba(10, 10, 18, 0.9);
+      padding: 15px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: var(--shadow);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      animation: fadeIn 0.5s ease-in-out;
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid rgba(0, 240, 255, 0.2);
+    }
+    
+    .logo-container {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    
+    .logo-icon {
+      font-size: 2rem;
+      color: var(--primary-color);
+      text-shadow: var(--neon-glow);
+    }
+    
+    header h1 {
+      font-size: 2.2rem;
+      color: var(--primary-color);
+      background: linear-gradient(90deg, var(--primary-color), var(--secondary-color), var(--accent-color), var(--primary-color));
+      background-size: 300% 300%;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: gradient 8s ease infinite;
+    }
+    
+    @keyframes gradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+    
+    nav ul {
+      display: flex;
+      list-style: none;
+      gap: 25px;
+    }
+    
+    nav a {
+      color: #ccc;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.1rem;
+      transition: all 0.3s ease;
+      position: relative;
+      padding: 5px 0;
+    }
+    
+    nav a:hover {
+      color: var(--primary-color);
+      text-shadow: var(--neon-glow);
+    }
+    
+    nav a::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background: var(--primary-color);
+      transition: width 0.3s ease;
+      box-shadow: var(--neon-glow);
+    }
+    
+    nav a:hover::after {
+      width: 100%;
+    }
+    
+    .hero {
+      background: linear-gradient(135deg, #0f0f1f, #0a0a12);
+      text-align: center;
+      padding: 100px 20px 60px;
+      animation: fadeIn 1s ease-in-out;
+      position: relative;
+      overflow: hidden;
+      border-bottom: 1px solid rgba(0, 240, 255, 0.2);
+    }
+    
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      left: -50%;
+      width: 200%;
+      height: 200%;
+      background: radial-gradient(circle, rgba(0, 240, 255, 0.1) 0%, transparent 70%);
+      transform: rotate(30deg);
+      z-index: 0;
+    }
+    
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    
+    .hero h2 {
+      font-size: 3rem;
+      margin-bottom: 20px;
+      color: var(--primary-color);
+      text-shadow: var(--neon-glow);
+      background: linear-gradient(90deg, var(--primary-color), #ffffff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    
+    .hero p {
+      font-size: 1.3rem;
+      color: #ddd;
+      margin-bottom: 30px;
+      max-width: 700px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    .feature-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(0, 240, 255, 0.15);
+      padding: 12px 25px;
+      border-radius: 30px;
+      margin-top: 10px;
+      font-size: 1.1rem;
+      backdrop-filter: blur(5px);
+      border: 1px solid rgba(0, 240, 255, 0.3);
+      box-shadow: var(--neon-glow);
+    }
+    
+    .feature-badge .icon {
+      color: var(--primary-color);
+      font-weight: bold;
+    }
+    
+    .stats-container {
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      margin: 40px 0;
+      flex-wrap: wrap;
+    }
+    
+    .stat-item {
+      text-align: center;
+      background: rgba(255, 255, 255, 0.05);
+      padding: 20px 30px;
+      border-radius: 12px;
+      min-width: 180px;
+      backdrop-filter: blur(5px);
+      border: 1px solid rgba(0, 240, 255, 0.1);
+      transition: all 0.3s ease;
+    }
+    
+    .stat-item:hover {
+      transform: translateY(-5px);
+      box-shadow: var(--neon-glow);
+      border-color: var(--primary-color);
+    }
+    
+    .stat-number {
+      font-size: 2.8rem;
+      font-weight: 700;
+      color: var(--primary-color);
+      margin-bottom: 5px;
+      text-shadow: var(--neon-glow);
+    }
+    
+    .stat-label {
+      font-size: 1rem;
+      color: #aaa;
+    }
+    
+    .search-container {
+      margin: 0 auto;
+      max-width: 700px;
+      text-align: center;
+      position: relative;
+    }
+    
+    .search-container input {
+      width: 100%;
+      padding: 16px 30px;
+      border-radius: 50px;
+      border: none;
+      outline: none;
+      font-size: 1.1rem;
+      background-color: rgba(30, 30, 45, 0.8);
+      color: var(--text-color);
+      box-shadow: var(--shadow);
+      transition: all 0.3s ease;
+      backdrop-filter: blur(5px);
+      border: 1px solid rgba(0, 240, 255, 0.2);
+    }
+    
+    .search-container input:focus {
+      box-shadow: var(--neon-glow);
+      background-color: rgba(30, 30, 45, 0.9);
+      border-color: var(--primary-color);
+    }
+    
+    .search-container input::placeholder {
+      color: #888;
+    }
+    
+    .section-title {
+      text-align: center;
+      font-size: 2.5rem;
+      margin: 60px 0 40px;
+      color: var(--primary-color);
+      position: relative;
+      display: inline-block;
+      width: 100%;
+      background: linear-gradient(90deg, var(--primary-color), var(--accent-color));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    
+    .section-title::after {
+      content: '';
+      display: block;
+      width: 150px;
+      height: 4px;
+      background: linear-gradient(90deg, var(--primary-color), var(--accent-color));
+      margin: 15px auto 0;
+      border-radius: 2px;
+      box-shadow: var(--neon-glow);
+    }
+    
+    .games-section {
+      padding: 30px 20px 50px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 30px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    
+    .no-results {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 40px;
+      color: var(--warning-color);
+      font-size: 1.2rem;
+    }
+    
+    .game-card {
+      background-color: var(--card-bg);
+      border-radius: 15px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      transition: all 0.3s ease-in-out;
+      animation: fadeIn 0.8s ease-in-out;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      position: relative;
+      border: 1px solid rgba(0, 240, 255, 0.2);
+    }
+    
+    .game-card:hover {
+      transform: translateY(-8px);
+      box-shadow: var(--neon-glow);
+      border-color: var(--primary-color);
+    }
+    
+    .game-card img {
+      width: 100%;
+      height: 220px;
+      object-fit: cover;
+      transition: transform 0.3s ease-in-out;
+    }
+    
+    .game-card:hover img {
+      transform: scale(1.05);
+    }
+    
+    .card-content {
+      padding: 25px;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .game-card h3 {
+      font-size: 1.5rem;
+      margin-bottom: 15px;
+      color: var(--primary-color);
+      transition: color 0.3s ease-in-out;
+    }
+    
+    .game-card:hover h3 {
+      color: var(--secondary-color);
+    }
+    
+    .game-card p {
+      font-size: 1.05rem;
+      margin-bottom: 20px;
+      color: #ddd;
+      flex-grow: 1;
+      line-height: 1.6;
+    }
+    
+    .game-card .game-meta {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 20px;
+      font-size: 0.95rem;
+      color: #aaa;
+    }
+    
+    .game-card button {
+      background: linear-gradient(135deg, var(--secondary-color), #ff3399);
+      color: white;
+      padding: 14px 25px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-weight: bold;
+      font-size: 1.1rem;
+      margin-top: 15px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    
+    .game-card button:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 5px 20px rgba(255, 0, 170, 0.6);
+    }
+    
+    .load-more-btn {
+      background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+      color: var(--main-bg);
+      padding: 16px 35px;
+      border: none;
+      border-radius: 50px;
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 1.2rem;
+      margin: 40px auto;
+      display: block;
+      transition: all 0.3s ease;
+      box-shadow: var(--shadow);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    
+    .load-more-btn:hover {
+      transform: translateY(-5px);
+      box-shadow: var(--neon-glow);
+    }
+    
+    /* Newsletter Section */
+    .newsletter-section {
+      padding: 80px 20px;
+      background: linear-gradient(135deg, #0f0f1f, #0a0a12);
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+      border-top: 1px solid rgba(0, 240, 255, 0.2);
+      border-bottom: 1px solid rgba(0, 240, 255, 0.2);
+    }
+    
+    .newsletter-container {
+      max-width: 600px;
+      margin: 0 auto;
+      position: relative;
+      z-index: 1;
+    }
+    
+    .newsletter-title {
+      font-size: 2.2rem;
+      margin-bottom: 20px;
+      color: var(--primary-color);
+      background: linear-gradient(90deg, var(--primary-color), #ffffff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    
+    .newsletter-text {
+      font-size: 1.1rem;
+      color: #ddd;
+      margin-bottom: 30px;
+      max-width: 500px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    .newsletter-form {
+      display: flex;
+      max-width: 500px;
+      margin: 0 auto;
+      gap: 10px;
+    }
+    
+    .newsletter-input {
+      flex-grow: 1;
+      padding: 16px 25px;
+      border-radius: 50px;
+      border: none;
+      outline: none;
+      font-size: 1rem;
+      background-color: rgba(30, 30, 45, 0.8);
+      color: var(--text-color);
+      box-shadow: var(--shadow);
+      transition: all 0.3s ease;
+      backdrop-filter: blur(5px);
+      border: 1px solid rgba(0, 240, 255, 0.2);
+    }
+    
+    .newsletter-input:focus {
+      box-shadow: var(--neon-glow);
+      border-color: var(--primary-color);
+    }
+    
+    .newsletter-submit {
+      background: linear-gradient(135deg, var(--secondary-color), #ff3399);
+      color: white;
+      padding: 16px 30px;
+      border: none;
+      border-radius: 50px;
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 1rem;
+      transition: all 0.3s ease;
+      box-shadow: var(--shadow);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      white-space: nowrap;
+    }
+    
+    .newsletter-submit:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 5px 20px rgba(255, 0, 170, 0.6);
+    }
+    
+    .newsletter-success {
+      color: var(--success-color);
+      margin-top: 15px;
+      font-weight: bold;
+      display: none;
+    }
+    
+    /* FAQ Section */
+    .faq-section {
+      padding: 80px 20px;
+      background: var(--main-bg);
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    
+    .faq-item {
+      margin-bottom: 30px;
+      border-bottom: 1px solid rgba(0, 240, 255, 0.2);
+      padding-bottom: 30px;
+      transition: all 0.3s ease;
+    }
+    
+    .faq-item:last-child {
+      border-bottom: none;
+    }
+    
+    .faq-question {
+      color: var(--primary-color);
+      font-size: 1.4rem;
+      margin-bottom: 15px;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      transition: all 0.3s ease;
+    }
+    
+    .faq-question:hover {
+      color: var(--secondary-color);
+    }
+    
+    .faq-question::after {
+      content: '+';
+      font-size: 1.8rem;
+      transition: all 0.3s ease;
+    }
+    
+    .faq-question.active::after {
+      content: '-';
+      color: var(--secondary-color);
+    }
+    
+    .faq-answer {
+      color: #ddd;
+      line-height: 1.7;
+      font-size: 1.1rem;
+      max-height: 0;
+      overflow: hidden;
+      transition: all 0.3s ease;
+    }
+    
+    .faq-answer.show {
+      max-height: 500px;
+      padding-top: 15px;
+    }
+    
+    /* Reviews Section */
+    .reviews-section {
+      padding: 80px 20px;
+      background: linear-gradient(to bottom, #0f0f1f, #0a0a12);
+      position: relative;
+      overflow: hidden;
+      border-top: 1px solid rgba(0, 240, 255, 0.2);
+    }
+    
+    .reviews-section::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: 
+        radial-gradient(circle at 20% 30%, rgba(0, 240, 255, 0.03) 0%, transparent 30%),
+        radial-gradient(circle at 80% 70%, rgba(255, 0, 170, 0.03) 0%, transparent 30%);
+      z-index: 0;
+    }
+    
+    .reviews-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 30px;
+      max-width: 1400px;
+      margin: 40px auto 0;
+      position: relative;
+      z-index: 1;
+    }
+    
+    .review-card {
+      background: var(--review-bg);
+      border-radius: 15px;
+      padding: 30px;
+      box-shadow: var(--shadow);
+      border: 1px solid rgba(0, 240, 255, 0.2);
+      transition: all 0.3s ease;
+      backdrop-filter: blur(5px);
+    }
+    
+    .review-card:hover {
+      transform: translateY(-8px);
+      box-shadow: var(--neon-glow);
+      border-color: var(--primary-color);
+    }
+    
+    .review-header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    
+    .review-avatar {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.8rem;
+      color: white;
+      margin-right: 20px;
+      box-shadow: var(--neon-glow);
+    }
+    
+    .review-info {
+      flex-grow: 1;
+    }
+    
+    .review-name {
+      font-weight: 700;
+      color: var(--primary-color);
+      font-size: 1.3rem;
+      margin-bottom: 5px;
+    }
+    
+    .review-date {
+      color: #aaa;
+      font-size: 0.95rem;
+    }
+    
+    .review-stars {
+      color: #ffcc00;
+      font-size: 1.2rem;
+      margin-top: 5px;
+    }
+    
+    .review-content {
+      color: #ddd;
+      line-height: 1.7;
+      font-size: 1.1rem;
+    }
+    
+    .review-content::before {
+      content: '"';
+      font-size: 2.5rem;
+      color: rgba(0, 240, 255, 0.3);
+      line-height: 0;
+      margin-right: 5px;
+      vertical-align: -15px;
+    }
+    
+    /* Popups */
+    .popup {
+      display: none;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color: var(--card-bg);
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: var(--neon-glow);
+      z-index: 10000;
+      width: 90%;
+      max-width: 600px;
+      max-height: 90vh;
+      overflow-y: auto;
+      animation: fadeInPopup 0.4s ease-in-out;
+      border: 1px solid rgba(0, 240, 255, 0.3);
+    }
+    
+    @keyframes fadeInPopup {
+      0% { opacity: 0; transform: translate(-50%, -50%) scale(0.9); }
+      100% { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+    }
+    
+    .popup img {
+      width: 100%;
+      border-radius: 15px;
+      margin-bottom: 25px;
+      border: 1px solid rgba(0, 240, 255, 0.3);
+      box-shadow: var(--shadow);
+    }
+    
+    .popup h3 {
+      color: var(--primary-color);
+      margin-bottom: 20px;
+      font-size: 1.8rem;
+      background: linear-gradient(90deg, var(--primary-color), #ffffff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    
+    .popup p {
+      color: #ddd;
+      margin-bottom: 20px;
+      line-height: 1.7;
+      font-size: 1.1rem;
+    }
+    
+    .popup .game-details {
+      background: rgba(0, 0, 0, 0.2);
+      padding: 20px;
+      border-radius: 12px;
+      margin-bottom: 25px;
+      border: 1px solid rgba(0, 240, 255, 0.2);
+    }
+    
+    .popup .game-details div {
+      margin-bottom: 12px;
+      display: flex;
+    }
+    
+    .popup .game-details strong {
+      min-width: 120px;
+      color: var(--primary-color);
+    }
+    
+    .popup button {
+      background: linear-gradient(135deg, var(--secondary-color), #ff3399);
+      color: white;
+      padding: 16px 30px;
+      border: none;
+      border-radius: 50px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      display: block;
+      margin: 25px auto 0;
+      font-weight: bold;
+      font-size: 1.1rem;
+      width: 100%;
+      max-width: 250px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    
+    .popup button:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 5px 20px rgba(255, 0, 170, 0.6);
+    }
+    
+    .popup .close-btn {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      font-size: 30px;
+      color: #bbb;
+      cursor: pointer;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      transition: all 0.3s ease;
+    }
+    
+    .popup .close-btn:hover {
+      color: var(--secondary-color);
+      background: rgba(255, 0, 170, 0.1);
+      transform: rotate(90deg);
+    }
+    
+    .footer {
+      background-color: var(--secondary-bg);
+      text-align: center;
+      padding: 60px 20px 40px;
+      color: #aaa;
+      border-top: 1px solid rgba(0, 240, 255, 0.2);
+      position: relative;
+    }
+    
+    .footer::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: radial-gradient(circle at center, rgba(0, 240, 255, 0.03) 0%, transparent 70%);
+      z-index: 0;
+    }
+    
+    .footer-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      position: relative;
+      z-index: 1;
+    }
+    
+    .footer-logo {
+      font-size: 2.5rem;
+      color: var(--primary-color);
+      margin-bottom: 20px;
+      text-shadow: var(--neon-glow);
+    }
+    
+    .footer p {
+      margin-bottom: 20px;
+      max-width: 600px;
+      line-height: 1.7;
+      font-size: 1.1rem;
+    }
+    
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      margin: 30px 0;
+      flex-wrap: wrap;
+    }
+    
+    .footer-links a {
+      color: #aaa;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      font-size: 1.1rem;
+      position: relative;
+      padding: 5px 0;
+    }
+    
+    .footer-links a:hover {
+      color: var(--primary-color);
+      text-shadow: var(--neon-glow);
+    }
+    
+    .footer-links a::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background: var(--primary-color);
+      transition: width 0.3s ease;
+    }
+    
+    .footer-links a:hover::after {
+      width: 100%;
+    }
+    
+    .contact-email {
+      color: var(--primary-color);
+      text-decoration: none;
+      font-weight: bold;
+      transition: all 0.3s ease;
+    }
+    
+    .contact-email:hover {
+      text-shadow: var(--neon-glow);
+    }
+    
+    .social-links {
+      display: flex;
+      gap: 25px;
+      margin: 30px 0;
+    }
+    
+    .social-links a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.1);
+      color: var(--text-color);
+      transition: all 0.3s ease;
+      font-size: 1.3rem;
+      border: 1px solid rgba(0, 240, 255, 0.2);
+    }
+    
+    .social-links a:hover {
+      background: var(--primary-color);
+      color: var(--main-bg);
+      transform: translateY(-5px);
+      box-shadow: var(--neon-glow);
+    }
+    
+    .copyright {
+      margin-top: 30px;
+      font-size: 0.95rem;
+      color: #777;
+    }
+    
+    /* Loading Placeholders */
+    .loading-placeholder {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 30px;
+      width: 100%;
+    }
+    
+    .placeholder-card {
+      background-color: var(--card-bg);
+      border-radius: 15px;
+      overflow: hidden;
+      height: 100%;
+      animation: pulse 1.5s infinite ease-in-out;
+      border: 1px solid rgba(0, 240, 255, 0.1);
+    }
+    
+    .placeholder-image {
+      width: 100%;
+      height: 220px;
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+    
+    .placeholder-content {
+      padding: 25px;
+    }
+    
+    .placeholder-title {
+      width: 80%;
+      height: 28px;
+      background-color: rgba(255, 255, 255, 0.1);
+      margin-bottom: 20px;
+      border-radius: 4px;
+    }
+    
+    .placeholder-text {
+      width: 100%;
+      height: 16px;
+      background-color: rgba(255, 255, 255, 0.1);
+      margin-bottom: 15px;
+      border-radius: 4px;
+    }
+    
+    .placeholder-text.short {
+      width: 60%;
+    }
+    
+    @keyframes pulse {
+      0%, 100% { opacity: 0.6; }
+      50% { opacity: 0.3; }
+    }
+    
+    /* Responsive Design */
+    @media (max-width: 1200px) {
+      .hero h2 {
+        font-size: 2.5rem;
+      }
+      
+      .section-title {
+        font-size: 2.2rem;
+      }
+    }
+    
+    @media (max-width: 992px) {
+      header {
+        flex-direction: column;
+        gap: 15px;
+      }
+      
+      nav ul {
+        gap: 20px;
+      }
+      
+      .hero {
+        padding: 80px 20px 50px;
+      }
+      
+      .stat-item {
+        min-width: 160px;
+        padding: 15px 25px;
+      }
+      
+      .stat-number {
+        font-size: 2.5rem;
+      }
+      
+      .newsletter-form {
+        flex-direction: column;
+      }
+      
+      .newsletter-submit {
+        width: 100%;
+      }
+    }
+    
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 2rem;
+      }
+      
+      .hero h2 {
+        font-size: 2.2rem;
+      }
+      
+      .hero p {
+        font-size: 1.1rem;
+      }
+      
+      .section-title {
+        font-size: 2rem;
+      }
+      
+      .faq-question {
+        font-size: 1.2rem;
+      }
+      
+      .popup {
+        padding: 30px;
+      }
+      
+      .stat-item {
+        min-width: 140px;
+        padding: 12px 20px;
+      }
+      
+      .stat-number {
+        font-size: 2.2rem;
+      }
+    }
+    
+    @media (max-width: 576px) {
+      header h1 {
+        font-size: 1.8rem;
+      }
+      
+      nav ul {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+      }
+      
+      .hero h2 {
+        font-size: 1.8rem;
+      }
+      
+      .section-title {
+        font-size: 1.8rem;
+      }
+      
+      .section-title::after {
+        width: 100px;
+      }
+      
+      .games-section {
+        grid-template-columns: 1fr;
+      }
+      
+      .stat-item {
+        min-width: 120px;
+        padding: 10px 15px;
+      }
+      
+      .stat-number {
+        font-size: 2rem;
+      }
+      
+      .footer-links {
+        flex-direction: column;
+        gap: 15px;
+      }
+      
+      .social-links {
+        gap: 15px;
+      }
+      
+      .social-links a {
+        width: 45px;
+        height: 45px;
+        font-size: 1.2rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="loader">
+    <h1>MOBVEX</h1>
+    <div class="loader-spinner"></div>
+  </div>
+  
+  <div id="content">
+    <header>
+      <div class="logo-container">
+        <div class="logo-icon"><i class="fas fa-gamepad"></i></div>
+        <h1>MobVex</h1>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="#games">Games</a></li>
+          <li><a href="#reviews">Reviews</a></li>
+          <li><a href="#faq">FAQ</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    <section class="hero">
+      <div class="hero-content">
+        <h2>Unleash Your Games' True Potential</h2>
+        <p>Discover thousands of premium mods to transform your gaming experience. Unlimited features, enhanced gameplay, and exclusive content.</p>
+        <div class="feature-badge glow-border">
+          <span class="icon"><i class="fas fa-star"></i></span>
+          <span>Premium mod collection updated daily</span>
+        </div>
+        
+        <div class="stats-container">
+          <div class="stat-item glow-border">
+            <div class="stat-number">25K+</div>
+            <div class="stat-label">Active Modders</div>
+          </div>
+          <div class="stat-item glow-border">
+            <div class="stat-number">10K+</div>
+            <div class="stat-label">Exclusive Mods</div>
+          </div>
+          <div class="stat-item glow-border">
+            <div class="stat-number">500+</div>
+            <div class="stat-label">Supported Games</div>
+          </div>
+        </div>
+        
+        <div class="search-container">
+          <input type="text" id="searchInput" placeholder="Search for games or mods...">
+        </div>
+      </div>
+    </section>
+    
+    <h2 class="section-title" id="games">Featured Mods</h2>
+    
+    <section class="games-section" id="gamesSection">
+      <div class="loading-placeholder">
+        <div class="placeholder-card">
+          <div class="placeholder-image"></div>
+          <div class="placeholder-content">
+            <div class="placeholder-title"></div>
+            <div class="placeholder-text"></div>
+            <div class="placeholder-text"></div>
+            <div class="placeholder-text short"></div>
+          </div>
+        </div>
+        <div class="placeholder-card">
+          <div class="placeholder-image"></div>
+          <div class="placeholder-content">
+            <div class="placeholder-title"></div>
+            <div class="placeholder-text"></div>
+            <div class="placeholder-text"></div>
+            <div class="placeholder-text short"></div>
+          </div>
+        </div>
+        <div class="placeholder-card">
+          <div class="placeholder-image"></div>
+          <div class="placeholder-content">
+            <div class="placeholder-title"></div>
+            <div class="placeholder-text"></div>
+            <div class="placeholder-text"></div>
+            <div class="placeholder-text short"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <button class="load-more-btn glow-border" id="loadMoreBtn">Load More Mods</button>
+    
+    <section class="newsletter-section">
+      <div class="newsletter-container">
+        <h3 class="newsletter-title">Join Our Modding Community</h3>
+        <p class="newsletter-text">Subscribe to get exclusive mods, early access to new releases, and special offers straight to your inbox.</p>
+        <form class="newsletter-form" id="newsletterForm">
+          <input type="email" class="newsletter-input" placeholder="Your email address" required>
+          <button type="submit" class="newsletter-submit">Subscribe</button>
+        </form>
+        <div class="newsletter-success" id="newsletterSuccess">
+          Thanks for subscribing! Check your email for confirmation.
+        </div>
+      </div>
+    </section>
+    
+    <section class="faq-section" id="faq">
+      <h2 class="section-title">Frequently Asked Questions</h2>
+      
+      <div class="faq-item">
+        <div class="faq-question">How do I install these mods?</div>
+        <div class="faq-answer">
+          Each mod comes with detailed installation instructions. Typically you'll need to copy files to your game's installation directory. 
+          We provide step-by-step guides for each mod and video tutorials for popular games.
+        </div>
+      </div>
+      
+      <div class="faq-item">
+        <div class="faq-question">Are these mods free to use?</div>
+        <div class="faq-answer">
+          Yes, all mods on MobVex are completely free. We do require a quick verification to access downloads, which helps support our platform 
+          and keeps the mods free for everyone.
+        </div>
+      </div>
+      
+      <div class="faq-item">
+        <div class="faq-question">Will these mods get me banned?</div>
+        <div class="faq-answer">
+          While we test all mods extensively, we can't guarantee they're undetectable. We recommend using mods in single-player modes only 
+          and checking each mod's details for specific warnings. Many mods are marked with their online compatibility status.
+        </div>
+      </div>
+      
+      <div class="faq-item">
+        <div class="faq-question">How often are new mods added?</div>
+        <div class="faq-answer">
+          Our library is updated daily with new content. We have a team of modders constantly creating and testing new modifications. 
+          Subscribe to our newsletter to get notified about major new releases.
+        </div>
+      </div>
+      
+      <div class="faq-item">
+        <div class="faq-question">Can I request specific mods?</div>
+        <div class="faq-answer">
+          Absolutely! We welcome mod requests from our community. While we can't fulfill every request, popular suggestions get prioritized. 
+          Contact us with your mod ideas and we'll do our best to make them happen.
+        </div>
+      </div>
+    </section>
+    
+    <section class="reviews-section" id="reviews">
+      <h2 class="section-title">User Reviews</h2>
+      <div class="reviews-container">
+        <div class="review-card glow-border">
+          <div class="review-header">
+            <div class="review-avatar"><i class="fas fa-user"></i></div>
+            <div class="review-info">
+              <div class="review-name">Alex Johnson</div>
+              <div class="review-date">May 15, 2025</div>
+              <div class="review-stars">★★★★★</div>
+            </div>
+          </div>
+          <div class="review-content">
+            MobVex has completely transformed how I play my favorite games. The quality of mods here is unmatched - I've tried other sites but none compare. The verification process is quick and worth it for the content you get.
+          </div>
+        </div>
+        
+        <div class="review-card glow-border">
+          <div class="review-header">
+            <div class="review-avatar"><i class="fas fa-user"></i></div>
+            <div class="review-info">
+              <div class="review-name">Sarah Williams</div>
+              <div class="review-date">June 3, 2025</div>
+              <div class="review-stars">★★★★★</div>
+            </div>
+          </div>
+          <div class="review-content">
+            As a content creator, MobVex is my go-to source for game mods. The variety is incredible and everything works as described. My viewers love the unique gameplay experiences I can create thanks to these mods.
+          </div>
+        </div>
+        
+        <div class="review-card glow-border">
+          <div class="review-header">
+            <div class="review-avatar"><i class="fas fa-user"></i></div>
+            <div class="review-info">
+              <div class="review-name">Mike Thompson</div>
+              <div class="review-date">April 28, 2025</div>
+              <div class="review-stars">★★★★☆</div>
+            </div>
+          </div>
+          <div class="review-content">
+            I was skeptical at first, but after trying a few mods I'm impressed. The verification system is a small price to pay for high-quality mods. Only wish they had more VR mods, but the team says they're working on it!
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <footer class="footer" id="contact">
+      <div class="footer-content">
+        <div class="footer-logo">
+          <i class="fas fa-gamepad"></i>
+        </div>
+        <p>Transform your gaming experience with MobVex premium mods. Unlimited possibilities, one-click downloads.</p>
+        
+        <div class="footer-links">
+          <a href="#games">Games</a>
+          <a href="#reviews">Reviews</a>
+          <a href="#faq">FAQ</a>
+          <a href="#">Privacy Policy</a>
+          <a href="#">Terms of Service</a>
+          <a href="mailto:support@mobvex.com" class="contact-email">Contact Us</a>
+        </div>
+        
+        <div class="social-links">
+          <a href="#"><i class="fab fa-twitter"></i></a>
+          <a href="#"><i class="fab fa-discord"></i></a>
+          <a href="#"><i class="fab fa-youtube"></i></a>
+          <a href="#"><i class="fab fa-reddit"></i></a>
+        </div>
+        
+        <div class="copyright">
+          © 2025 MobVex. All rights reserved. All game trademarks are property of their respective owners.
+        </div>
+      </div>
+    </footer>
+  </div>
+  
+  <div id="gamePopup" class="popup">
+    <div class="close-btn" onclick="closePopup()">×</div>
+    <img src="" id="popupGameImage" alt="Game Image">
+    <h3 id="popupGameName">Game Name</h3>
+    <p id="popupDescription">Game description will appear here...</p>
+    
+    <div class="game-details">
+      <div><strong>Category:</strong> <span id="popupCategory">Action</span></div>
+      <div><strong>Size:</strong> <span id="popupSize">1.2 GB</span></div>
+      <div><strong>Version:</strong> <span id="popupVersion">1.5.3</span></div>
+      <div><strong>Downloads:</strong> <span id="popupDownloads">24,581</span></div>
+    </div>
+    
+    <button onclick="openDownloadPopup()">Download Now</button>
+  </div>
+  
+  <div id="downloadPopup" class="popup">
+    <div class="close-btn" onclick="closeDownloadPopup()">×</div>
+    <h3>Complete Quick Verification</h3>
+    <p>Please complete one quick verification to unlock your download:</p>
+    
+    <div style="text-align: center; margin: 20px 0;">
+      <button onclick="showAdBluemediaLocker()" class="glow-border" style="
+        background: linear-gradient(135deg, #007bff, #00bfff);
+        color: white;
+        padding: 16px 30px;
+        border: none;
+        border-radius: 50px;
+        cursor: pointer;
+        font-weight: bold;
+        font-size: 1.1rem;
+        transition: all 0.3s ease;
+      ">
+        Verify Now
+      </button>
+    </div>
+    
+    <p style="text-align: center; font-size: 0.95rem; color: #aaa;">
+      <i class="fas fa-lock"></i> This helps us prevent abuse and keep downloads free for everyone
+    </p>
+  </div>
+
+  <script>
+    let games = [];
+    let visibleGames = 10;
+    const gamesPerLoad = 5;
+    let allGamesLoaded = false;
+
+    // Newsletter form handling
+    const newsletterForm = document.getElementById('newsletterForm');
+    const newsletterSuccess = document.getElementById('newsletterSuccess');
+    
+    newsletterForm.addEventListener('submit', function(e) {
+      e.preventDefault();
+      const email = this.querySelector('input').value;
+      
+      // Here you would typically send the email to your server
+      // For demo purposes, we'll just show success message
+      newsletterForm.style.display = 'none';
+      newsletterSuccess.style.display = 'block';
+      
+      // Reset form after 5 seconds
+      setTimeout(() => {
+        newsletterForm.style.display = 'flex';
+        newsletterSuccess.style.display = 'none';
+        newsletterForm.reset();
+      }, 5000);
+    });
+
+    // FAQ accordion functionality
+    const faqQuestions = document.querySelectorAll('.faq-question');
+    faqQuestions.forEach(question => {
+      question.addEventListener('click', () => {
+        const answer = question.nextElementSibling;
+        const isActive = question.classList.contains('active');
+        
+        // Close all other FAQs
+        faqQuestions.forEach(q => {
+          q.classList.remove('active');
+          q.nextElementSibling.classList.remove('show');
+        });
+        
+        // Open current if wasn't active
+        if (!isActive) {
+          question.classList.add('active');
+          answer.classList.add('show');
+        }
+      });
+    });
+
+    function createGameCard(game) {
+      const shortDescription = game.description.length > 100 
+        ? game.description.substring(0, 100) + "..." 
+        : game.description;
+      
+      return `
+        <div class="game-card glow-border">
+          <img src="${game.image}" alt="${game.name} - Game Mod" loading="lazy">
+          <div class="card-content">
+            <h3>${game.name}</h3>
+            <p>${shortDescription}</p>
+            <div class="game-meta">
+              <span>${game.category}</span>
+              <span>${game.size}</span>
+            </div>
+            <button onclick="openPopup(${game.id})">Download</button>
+          </div>
+        </div>
+      `;
+    }
+
+    function displayGames() {
+      const gamesSection = document.getElementById('gamesSection');
+      const gamesToShow = games.slice(0, visibleGames);
+      gamesSection.innerHTML = gamesToShow.map(createGameCard).join('');
+      
+      const loadMoreBtn = document.getElementById('loadMoreBtn');
+      if (visibleGames >= games.length) {
+        loadMoreBtn.style.display = 'none';
+        allGamesLoaded = true;
+      } else {
+        loadMoreBtn.style.display = 'block';
+        allGamesLoaded = false;
+      }
+    }
+
+    document.getElementById('loadMoreBtn').addEventListener('click', () => {
+      visibleGames += gamesPerLoad;
+      displayGames();
+      
+      // Smooth scroll to show new games
+      if (!allGamesLoaded) {
+        document.getElementById('loadMoreBtn').scrollIntoView({ 
+          behavior: 'smooth', 
+          block: 'start' 
+        });
+      }
+    });
+
+    function openPopup(gameId) {
+      const game = games.find(g => g.id === gameId);
+      if (!game) return;
+      
+      document.getElementById('popupGameName').innerText = game.name;
+      document.getElementById('popupDescription').innerText = game.description;
+      document.getElementById('popupCategory').innerText = game.category;
+      document.getElementById('popupSize').innerText = game.size;
+      document.getElementById('popupVersion').innerText = game.version || "1.0";
+      document.getElementById('popupDownloads').innerText = game.downloads || "10,000+";
+      document.getElementById('popupGameImage').src = game.image;
+      document.getElementById('popupGameImage').alt = `${game.name} - Screenshot`;
+      
+      document.getElementById('gamePopup').style.display = 'block';
+    }
+
+    function closePopup() {
+      document.getElementById('gamePopup').style.display = 'none';
+    }
+    
+    function openDownloadPopup() {
+      document.getElementById('downloadPopup').style.display = 'block';
+      closePopup();
+    }
+    
+    function closeDownloadPopup() {
+      document.getElementById('downloadPopup').style.display = 'none';
+    }
+    
+    function showAdBluemediaLocker() {
+      if (typeof _wg === 'function') {
+        _wg();
+      } else {
+        alert("Verification system is currently unavailable. Please try again later.");
+        console.error("AdBluemedia locker function not found");
+      }
+    }
+
+    window.addEventListener('load', () => {
+      const loader = document.getElementById('loader');
+      const content = document.getElementById('content');
+      
+      setTimeout(() => {
+        loader.style.display = 'none';
+        content.style.display = 'block';
+        
+        // Load games from the provided GitHub repository
+        fetch('https://raw.githubusercontent.com/softwarekc1/modhype/refs/heads/main/games.json')
+          .then(response => response.json())
+          .then(data => {
+            games = data.map((game, index) => ({
+              ...game,
+              id: index + 1,
+              version: game.version || "1.0",
+              downloads: game.downloads || "10,000+"
+            }));
+            
+            displayGames(); // Show first 10 games
+          })
+          .catch(error => {
+            console.error('Error fetching games:', error);
+            document.getElementById('gamesSection').innerHTML = `
+              <div class="no-results">
+                Games couldn't be loaded at this time. Please try again later.
+              </div>
+            `;
+            document.getElementById('loadMoreBtn').style.display = 'none';
+          });
+      }, 1500);
+    });
+
+    document.getElementById('searchInput').addEventListener('input', function() {
+      const query = this.value.toLowerCase();
+      const gamesSection = document.getElementById('gamesSection');
+      
+      if (query === '') {
+        displayGames();
+        return;
+      }
+      
+      const filteredGames = games.filter(game => 
+        game.name.toLowerCase().includes(query) || 
+        game.description.toLowerCase().includes(query) ||
+        game.category.toLowerCase().includes(query)
+      );
+      
+      if (filteredGames.length === 0) {
+        gamesSection.innerHTML = '<div class="no-results">No games found. Try a different search term.</div>';
+        document.getElementById('loadMoreBtn').style.display = 'none';
+      } else {
+        gamesSection.innerHTML = filteredGames.map(createGameCard).join('');
+        document.getElementById('loadMoreBtn').style.display = 'none';
+      }
+    });
+
+    // Close popups when clicking outside content
+    window.addEventListener('click', (e) => {
+      const gamePopup = document.getElementById('gamePopup');
+      const downloadPopup = document.getElementById('downloadPopup');
+      
+      if (e.target === gamePopup) {
+        closePopup();
+      }
+      
+      if (e.target === downloadPopup) {
+        closeDownloadPopup();
+      }
+    });
+  </script>
+</body>
+</html>
