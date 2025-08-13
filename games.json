@@ -161,11 +161,46 @@
     "image": "https://static-cdn.jtvnw.net/jtv_user_pictures/43aa2943-730e-427c-bcec-6cdef4d4c4d1-profile_banner-480.jpeg"
   },
   {
-    "name": "GTA V Mobile (MOD, Full Game/Unlocked Vehicles)",
-    "description": "Experience GTA 5 in mobile format with full access to cars, weapons and missions.",
+    "name": "Assetto Corsa Mobile (MOD)",
+    "description": "Mobile racing sim with licensed cars, unlimited credits, all tracks unlocked.",
+    "category": "Racing, Simulation",
+    "size": "1.5 GB",
+    "image": "https://image.api.playstation.com/cdn/UP4040/CUSA01830_00/zZ48ynwNtFVxvx6pePkyuVUOQcCIZlDM.png"
+  },
+  {
+    "name": "Watch_Dogs 2 (MOD)",
+    "description": "Open-world hacking adventure with all DLC unlocked and unlimited tools.",
+    "category": "Action, Adventure",
+    "size": "2 GB",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/capsule_616x353.jpg"
+  },
+  {
+    "name": "Uncharted 4 (MOD)",
+    "description": "Cinematic action-adventure with cheats: unlimited ammo, invincibility, unlocked chapters.",
+    "category": "Action, Adventure",
+    "size": "1.8 GB",
+    "image": "https://ragglefragglereviews.com/wp-content/uploads/2021/10/eio6ka26jchno8kafi7won4l.webp"
+  },
+  {
+    "name": "BeamNG.drive (MOD)",
+    "description": "Soft-body physics driving sim with unlocked mods, everything unlocked, no limits.",
+    "category": "Simulation, Driving",
+    "size": "2 GB",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/capsule_616x353.jpg"
+  },
+  {
+    "name": "Geometry Dash (MOD, Unlimited Currency/Unlocked)",
+    "description": "Rhythm platformer with all levels unlocked, unlimited orbs and keys.",
+    "category": "Arcade, Music",
+    "size": "150 MB",
+    "image": "https://m.media-amazon.com/images/I/61mVIP6Oo1L.png"
+  },
+  {
+    "name": "GTA San Andreas (MOD, Mobile)",
+    "description": "Classic open-world with mods: unlimited money, unlocked vehicles, enhanced graphics.",
     "category": "Action, Open World",
-    "size": "3.2 GB",
-    "image": "https://vulcanpost.com/wp-content/uploads/2015/04/GTAV-Review.jpg"
+    "size": "1.9 GB",
+    "image": "https://i.ytimg.com/vi/BMQM0Hly0C0/hq720.jpg"
   },
   {
     "name": "PUBG Mobile (MOD, Wallhack/No Recoil)",
