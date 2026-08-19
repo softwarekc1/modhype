@@ -1,0 +1,426 @@
+[
+  {
+    "name": "Minecraft – Full Unlocked (MOD)",
+    "description": "The ultimate sandbox adventure. MOD unlocks all skins, texture packs, and worlds with unlimited resources. No ads, full creative freedom.",
+    "category": "Adventure, Sandbox",
+    "size": "800 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/107410/header.jpg"
+  },
+  {
+    "name": "Terraria – All Items Unlocked (MOD)",
+    "description": "Explore, build, fight. MOD gives unlimited items, all weapons, and every boss unlocked from the start.",
+    "category": "Adventure, Sandbox, RPG",
+    "size": "500 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg"
+  },
+  {
+    "name": "Stardew Valley – Unlimited Money (MOD)",
+    "description": "Farming RPG with unlimited gold, all crops, animals, and buildings unlocked. Experience the full game without restrictions.",
+    "category": "Simulation, RPG",
+    "size": "400 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg"
+  },
+  {
+    "name": "Grand Theft Auto: San Andreas – Unlimited Money (MOD)",
+    "description": "Classic open-world gangster epic. MOD provides unlimited cash, all weapons, and every vehicle unlocked. Full story available.",
+    "category": "Action, Open World",
+    "size": "1.9 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/12120/header.jpg"
+  },
+  {
+    "name": "Grand Theft Auto: Vice City – Unlimited Money (MOD)",
+    "description": "Neon-soaked 80s crime saga. MOD gives unlimited cash, all weapons, and every vehicle unlocked.",
+    "category": "Action, Open World",
+    "size": "1.5 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/12110/header.jpg"
+  },
+  {
+    "name": "Bully: Anniversary Edition – Unlocked All (MOD)",
+    "description": "Rockstar's classic schoolyard adventure. MOD unlocks all classes, missions, and outfits from the start.",
+    "category": "Action, Adventure",
+    "size": "1.4 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/12200/header.jpg"
+  },
+  {
+    "name": "Max Payne Mobile – Unlimited Bullet Time (MOD)",
+    "description": "Gritty noir shooter. MOD provides unlimited bullet time, all weapons, and infinite ammo.",
+    "category": "Shooter, Action",
+    "size": "1.2 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/12140/header.jpg"
+  },
+  {
+    "name": "Dead Cells – All Weapons Unlocked (MOD)",
+    "description": "Roguelike action-platformer. MOD gives all weapons, skills, and mutations unlocked from the start.",
+    "category": "Action, Roguelike",
+    "size": "800 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/588650/header.jpg"
+  },
+  {
+    "name": "GRID Autosport – All Cars Unlocked (MOD)",
+    "description": "Console-quality racing simulation. MOD unlocks all cars, tracks, and upgrades instantly.",
+    "category": "Racing, Simulation",
+    "size": "2.5 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/219640/header.jpg"
+  },
+  {
+    "name": "XCOM: Enemy Within – Unlimited Resources (MOD)",
+    "description": "Turn-based strategy with unlimited credits, alloys, and all soldiers upgraded from the start.",
+    "category": "Strategy, RPG",
+    "size": "2.0 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/200510/header.jpg"
+  },
+  {
+    "name": "This War of Mine – Unlocked All (MOD)",
+    "description": "Survival in a war-torn city. MOD gives all resources, characters, and safe-house upgrades from the beginning.",
+    "category": "Strategy, Survival",
+    "size": "1.2 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/282070/header.jpg"
+  },
+  {
+    "name": "Don't Starve – Unlimited Resources (MOD)",
+    "description": "Survival game in a dark world. MOD grants unlimited resources, all characters, and infinite sanity.",
+    "category": "Survival, Adventure",
+    "size": "700 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/219740/header.jpg"
+  },
+  {
+    "name": "Limbo – Full Unlocked (MOD)",
+    "description": "Award-winning puzzle platformer. MOD removes ads, unlocks all levels, and gives unlimited lives.",
+    "category": "Puzzle, Platformer",
+    "size": "300 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/48000/header.jpg"
+  },
+  {
+    "name": "Inside – Full Unlocked (MOD)",
+    "description": "Dark atmospheric puzzle platformer. MOD unlocks all levels and secrets without restrictions.",
+    "category": "Puzzle, Platformer, Adventure",
+    "size": "500 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/304430/header.jpg"
+  },
+  {
+    "name": "Monument Valley – Full Unlocked (MOD)",
+    "description": "Beautiful optical illusion puzzle game. MOD unlocks all chapters and DLC content.",
+    "category": "Puzzle, Adventure",
+    "size": "250 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/294490/header.jpg"
+  },
+  {
+    "name": "Monument Valley 2 – Full Unlocked (MOD)",
+    "description": "Sequel with new mechanics. MOD grants all levels and bonus content unlocked.",
+    "category": "Puzzle, Adventure",
+    "size": "280 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/609740/header.jpg"
+  },
+  {
+    "name": "Alto's Adventure – Unlimited Coins (MOD)",
+    "description": "Endless snowboarding. MOD gives unlimited coins and all characters unlocked.",
+    "category": "Arcade, Sports",
+    "size": "150 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/436450/header.jpg"
+  },
+  {
+    "name": "Alto's Odyssey – Unlimited Coins (MOD)",
+    "description": "Endless desert sandboarding. MOD gives unlimited coins and all characters unlocked.",
+    "category": "Arcade, Sports",
+    "size": "170 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/739820/header.jpg"
+  },
+  {
+    "name": "The Room – Full Unlocked (MOD)",
+    "description": "Intricate puzzle box adventure. MOD unlocks all chapters and bonus puzzles.",
+    "category": "Puzzle, Adventure",
+    "size": "400 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/239510/header.jpg"
+  },
+  {
+    "name": "The Room Two – Full Unlocked (MOD)",
+    "description": "Sequel with more complex puzzles. MOD unlocks all levels and alternate endings.",
+    "category": "Puzzle, Adventure",
+    "size": "500 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/263260/header.jpg"
+  },
+  {
+    "name": "The Room Three – Full Unlocked (MOD)",
+    "description": "Third installment with immersive environments. MOD unlocks all chapters and secrets.",
+    "category": "Puzzle, Adventure",
+    "size": "600 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/456750/header.jpg"
+  },
+  {
+    "name": "Papers, Please – Full Unlocked (MOD)",
+    "description": "Dystopian immigration simulation. MOD unlocks all endings and difficulty settings.",
+    "category": "Simulation, Strategy",
+    "size": "300 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/239030/header.jpg"
+  },
+  {
+    "name": "Plague Inc. – All Diseases Unlocked (MOD)",
+    "description": "Pandemic simulator. MOD gives all diseases, scenarios, and unlimited DNA points.",
+    "category": "Strategy, Simulation",
+    "size": "400 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/246620/header.jpg"
+  },
+  {
+    "name": "Rebel Inc. – Unlimited Prestige (MOD)",
+    "description": "Counterinsurgency strategy game. MOD gives unlimited prestige, all governors, and all scenarios unlocked.",
+    "category": "Strategy, Simulation",
+    "size": "350 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1004360/header.jpg"
+  },
+  {
+    "name": "Final Fantasy VI – All Characters Unlocked (MOD)",
+    "description": "Classic JRPG masterpiece. MOD unlocks all characters, spells, and ultimate weapons from the start.",
+    "category": "RPG, Adventure",
+    "size": "600 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/382900/header.jpg"
+  },
+  {
+    "name": "Final Fantasy VII – Unlimited Gil (MOD)",
+    "description": "Iconic RPG with unlimited Gil, all Materia, and all characters unlocked.",
+    "category": "RPG, Adventure",
+    "size": "1.2 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/39140/header.jpg"
+  },
+  {
+    "name": "Chrono Trigger – Unlocked All (MOD)",
+    "description": "Timeless JRPG. MOD gives unlimited money, all characters, and multiple endings accessible from the start.",
+    "category": "RPG, Adventure",
+    "size": "500 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/613830/header.jpg"
+  },
+  {
+    "name": "Dragon Quest VIII – Unlimited Gold (MOD)",
+    "description": "Epic monster-catching RPG. MOD provides unlimited gold, all skills, and all items unlocked.",
+    "category": "RPG, Adventure",
+    "size": "1.5 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/312300/header.jpg"
+  },
+  {
+    "name": "Bastion – Unlimited Gems (MOD)",
+    "description": "Action RPG with a reactive narrator. MOD gives unlimited gems, all weapons, and all upgrades.",
+    "category": "Action, RPG",
+    "size": "600 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/107100/header.jpg"
+  },
+  {
+    "name": "Transistor – Unlimited Power (MOD)",
+    "description": "Sci-fi action RPG. MOD gives unlimited power, all programs, and all functions unlocked.",
+    "category": "Action, RPG",
+    "size": "700 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/237930/header.jpg"
+  },
+  {
+    "name": "Oxenfree – Full Unlocked (MOD)",
+    "description": "Supernatural thriller with multiple endings. MOD unlocks all story branches and dialogue options.",
+    "category": "Adventure, Thriller",
+    "size": "600 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/388880/header.jpg"
+  },
+  {
+    "name": "Firewatch – Full Unlocked (MOD)",
+    "description": "First-person mystery in the wilderness. MOD unlocks all dialogue choices and endings.",
+    "category": "Adventure, Mystery",
+    "size": "800 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/383870/header.jpg"
+  },
+  {
+    "name": "Gone Home – Full Unlocked (MOD)",
+    "description": "Exploration-based narrative. MOD unlocks all secrets and alternate endings.",
+    "category": "Adventure, Simulation",
+    "size": "400 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/232430/header.jpg"
+  },
+  {
+    "name": "The Talos Principle – All Puzzles Unlocked (MOD)",
+    "description": "Philosophical puzzle game. MOD unlocks all puzzles, all items, and all secrets.",
+    "category": "Puzzle, Adventure",
+    "size": "1.8 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/257510/header.jpg"
+  },
+  {
+    "name": "The Witness – Full Unlocked (MOD)",
+    "description": "Open-world puzzle island. MOD unlocks all areas and puzzles from the start.",
+    "category": "Puzzle, Adventure",
+    "size": "1.5 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/210970/header.jpg"
+  },
+  {
+    "name": "Return of the Obra Dinn – Full Unlocked (MOD)",
+    "description": "Detective mystery with a unique art style. MOD unlocks all chapters and clues.",
+    "category": "Puzzle, Mystery",
+    "size": "400 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/653530/header.jpg"
+  },
+  {
+    "name": "What Remains of Edith Finch – Full Unlocked (MOD)",
+    "description": "Narrative exploration game. MOD unlocks all stories and secrets.",
+    "category": "Adventure, Story-rich",
+    "size": "600 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/501300/header.jpg"
+  },
+  {
+    "name": "Life is Strange – Full Unlocked (MOD)",
+    "description": "Episodic adventure with time manipulation. MOD unlocks all episodes and choices.",
+    "category": "Adventure, Narrative",
+    "size": "1.8 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/319630/header.jpg"
+  },
+  {
+    "name": "To the Moon – Full Unlocked (MOD)",
+    "description": "Emotional pixel-art RPG. MOD unlocks all content and bonus scenes.",
+    "category": "RPG, Adventure",
+    "size": "200 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/206440/header.jpg"
+  },
+  {
+    "name": "The Walking Dead – Full Unlocked (MOD)",
+    "description": "Telltale's choice-driven zombie survival. MOD unlocks all episodes and choices.",
+    "category": "Adventure, Narrative",
+    "size": "1.5 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/207610/header.jpg"
+  },
+  {
+    "name": "The Wolf Among Us – Full Unlocked (MOD)",
+    "description": "Fable-noir crime thriller. MOD unlocks all episodes and decisions.",
+    "category": "Adventure, Narrative",
+    "size": "1.4 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/250320/header.jpg"
+  },
+  {
+    "name": "Batman: The Telltale Series – Full Unlocked (MOD)",
+    "description": "Dark Knight narrative adventure. MOD unlocks all episodes and choices.",
+    "category": "Adventure, Narrative",
+    "size": "1.6 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/486360/header.jpg"
+  },
+  {
+    "name": "Tropico – Full Unlocked (MOD)",
+    "description": "Dictator simulator. MOD unlocks all islands, buildings, and unlimited resources.",
+    "category": "Strategy, Simulation",
+    "size": "1.2 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/205990/header.jpg"
+  },
+  {
+    "name": "RollerCoaster Tycoon Classic – Unlimited Money (MOD)",
+    "description": "Theme park management classic. MOD gives unlimited money and all rides unlocked.",
+    "category": "Simulation, Strategy",
+    "size": "500 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/529780/header.jpg"
+  },
+  {
+    "name": "Prison Architect – Unlimited Funds (MOD)",
+    "description": "Prison management sim. MOD provides unlimited funds and all features unlocked.",
+    "category": "Simulation, Strategy",
+    "size": "1.0 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/233450/header.jpg"
+  },
+  {
+    "name": "Farming Simulator 2020 – Unlimited Money (MOD)",
+    "description": "Agricultural simulation. MOD gives unlimited money, all vehicles, and all crops unlocked.",
+    "category": "Simulation, Driving",
+    "size": "1.8 GB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1070590/header.jpg"
+  },
+  {
+    "name": "Bridge Constructor Portal – Unlocked All (MOD)",
+    "description": "Bridge building with Portal mechanics. MOD unlocks all levels and testing chambers.",
+    "category": "Puzzle, Simulation",
+    "size": "400 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/524020/header.jpg"
+  },
+  {
+    "name": "Human Resource Machine – Unlocked All (MOD)",
+    "description": "Programming puzzle game. MOD unlocks all levels and challenges.",
+    "category": "Puzzle, Strategy",
+    "size": "200 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/375820/header.jpg"
+  },
+  {
+    "name": "Little Inferno – Unlimited Fuel (MOD)",
+    "description": "Burning simulator with a story. MOD gives unlimited fuel and all combos unlocked.",
+    "category": "Simulation, Puzzle",
+    "size": "250 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/221260/header.jpg"
+  },
+  {
+    "name": "World of Goo – Unlocked All (MOD)",
+    "description": "Physics-based puzzle game. MOD unlocks all chapters and bonus levels.",
+    "category": "Puzzle, Strategy",
+    "size": "300 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/22000/header.jpg"
+  },
+  {
+    "name": "Machinarium – Full Unlocked (MOD)",
+    "description": "Point-and-click adventure with charming art. MOD unlocks all puzzles and chapters.",
+    "category": "Adventure, Puzzle",
+    "size": "400 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/40700/header.jpg"
+  },
+  {
+    "name": "Samorost 3 – Full Unlocked (MOD)",
+    "description": "Surreal point-and-click adventure. MOD unlocks all levels and secrets.",
+    "category": "Adventure, Puzzle",
+    "size": "600 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/421120/header.jpg"
+  },
+  {
+    "name": "Gorogoa – Full Unlocked (MOD)",
+    "description": "Visually stunning puzzle game. MOD unlocks all panels and story elements.",
+    "category": "Puzzle, Adventure",
+    "size": "300 MB",
+    "platform": "Android, iOS",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/557600/header.jpg"
+  }
+]
