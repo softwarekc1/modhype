@@ -1,0 +1,426 @@
+[
+  {
+    "name": "Spotify Premium (MOD, Ad-Free/Unlimited Skips)",
+    "description": "Stream millions of songs ad-free, with unlimited skips and offline playback. MOD unlocks all premium features without subscription.",
+    "category": "Music & Audio",
+    "size": "60 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/spotify/400/225"
+  },
+  {
+    "name": "YouTube Music Premium (MOD, Ad-Free/Background Play)",
+    "description": "Listen to official songs, albums, and playlists. MOD removes ads, enables background playback, and unlocks offline downloads.",
+    "category": "Music & Audio",
+    "size": "45 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/youtubemusic/400/225"
+  },
+  {
+    "name": "YouTube Vanced (MOD, Ad-Free/Background Play)",
+    "description": "Premium YouTube experience without ads. MOD allows background playback, picture-in-picture, and built-in adblock.",
+    "category": "Video & Streaming",
+    "size": "40 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/vanced/400/225"
+  },
+  {
+    "name": "ExpressVPN (MOD, Premium Unlocked/Unlimited Servers)",
+    "description": "High-speed VPN with unlimited server switching and strict no-logs policy. MOD unlocks all premium features.",
+    "category": "Tools & Utilities",
+    "size": "35 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/expressvpn/400/225"
+  },
+  {
+    "name": "NordVPN (MOD, Premium Unlocked/Unlimited Bandwidth)",
+    "description": "Secure VPN with military-grade encryption and thousands of servers worldwide. MOD removes all restrictions.",
+    "category": "Tools & Utilities",
+    "size": "40 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/nordvpn/400/225"
+  },
+  {
+    "name": "VSCO (MOD, All Presets Unlocked)",
+    "description": "Photo and video editing with cinematic presets. MOD unlocks all filters, editing tools, and premium content.",
+    "category": "Photo & Video Editing",
+    "size": "80 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/vsco/400/225"
+  },
+  {
+    "name": "PicsArt (MOD, Premium Unlocked/No Watermark)",
+    "description": "All-in-one photo editor with stickers, filters, and drawing tools. MOD removes watermarks and unlocks pro features.",
+    "category": "Photo & Video Editing",
+    "size": "90 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/picsart/400/225"
+  },
+  {
+    "name": "Adobe Lightroom (MOD, Premium Presets Unlocked)",
+    "description": "Professional photo editing with RAW support. MOD unlocks all premium presets and cloud storage.",
+    "category": "Photo & Video Editing",
+    "size": "120 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/lightroom/400/225"
+  },
+  {
+    "name": "Adobe Photoshop Express (MOD, Premium Unlocked)",
+    "description": "Quick and powerful photo editing with layers and filters. MOD unlocks all premium tools and effects.",
+    "category": "Photo & Video Editing",
+    "size": "70 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/photoshop/400/225"
+  },
+  {
+    "name": "PowerDirector (MOD, Premium Unlocked/No Watermark)",
+    "description": "Professional video editing on mobile with multi-track timeline. MOD removes watermark and unlocks all effects.",
+    "category": "Photo & Video Editing",
+    "size": "110 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/powerdirector/400/225"
+  },
+  {
+    "name": "CapCut (MOD, Premium Unlocked/No Watermark)",
+    "description": "Trending video editor with advanced features. MOD removes watermark and unlocks all pro effects.",
+    "category": "Photo & Video Editing",
+    "size": "140 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/capcut/400/225"
+  },
+  {
+    "name": "Nova Launcher Prime (MOD, Premium Unlocked)",
+    "description": "Customizable Android home screen launcher. MOD unlocks Prime features: gestures, app drawer groups, and icon themes.",
+    "category": "Tools & Utilities",
+    "size": "25 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/novalauncher/400/225"
+  },
+  {
+    "name": "KWGT Kustom Widget (MOD, Pro Unlocked)",
+    "description": "Customizable widgets with endless styles. MOD unlocks all pro widgets and editing features.",
+    "category": "Tools & Utilities",
+    "size": "30 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/kwgt/400/225"
+  },
+  {
+    "name": "KLWP Live Wallpaper (MOD, Pro Unlocked)",
+    "description": "Live wallpapers with animations and interactive elements. MOD unlocks all pro themes and customization.",
+    "category": "Tools & Utilities",
+    "size": "35 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/klwp/400/225"
+  },
+  {
+    "name": "Tasker (MOD, Full Version Unlocked)",
+    "description": "Automate tasks and actions on your device. MOD unlocks the full app without limitations.",
+    "category": "Tools & Utilities",
+    "size": "20 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/tasker/400/225"
+  },
+  {
+    "name": "Solid Explorer (MOD, Full Unlocked)",
+    "description": "File manager with dual-pane browsing and cloud support. MOD removes trial restrictions.",
+    "category": "Tools & Utilities",
+    "size": "18 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/solidexplorer/400/225"
+  },
+  {
+    "name": "MX Player Pro (MOD, Ad-Free/All Codecs)",
+    "description": "Powerful video player with hardware acceleration. MOD removes ads and unlocks all codecs.",
+    "category": "Video & Streaming",
+    "size": "30 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/mxplayer/400/225"
+  },
+  {
+    "name": "XPlayer (MOD, Premium Unlocked)",
+    "description": "All-format video player with background play and pop-up window. MOD unlocks premium features.",
+    "category": "Video & Streaming",
+    "size": "28 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/xplayer/400/225"
+  },
+  {
+    "name": "CamScanner (MOD, Premium Unlocked)",
+    "description": "Scan documents and convert to PDF. MOD unlocks all premium filters, OCR, and cloud sync.",
+    "category": "Productivity",
+    "size": "50 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/camscanner/400/225"
+  },
+  {
+    "name": "Adobe Scan (MOD, Premium Unlocked)",
+    "description": "PDF scanner with advanced image correction. MOD unlocks all premium features.",
+    "category": "Productivity",
+    "size": "55 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/adobescan/400/225"
+  },
+  {
+    "name": "OfficeSuite (MOD, Pro Unlocked)",
+    "description": "Full-featured office suite for Word, Excel, and PowerPoint. MOD unlocks Pro features and no ads.",
+    "category": "Productivity",
+    "size": "120 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/officesuite/400/225"
+  },
+  {
+    "name": "WPS Office (MOD, Premium Unlocked)",
+    "description": "Lightweight office suite with PDF tools. MOD unlocks premium themes and cloud storage.",
+    "category": "Productivity",
+    "size": "100 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/wpsoffice/400/225"
+  },
+  {
+    "name": "PDF Reader Pro (MOD, Premium Unlocked)",
+    "description": "Read, edit, and annotate PDFs with ease. MOD unlocks all pro editing tools.",
+    "category": "Productivity",
+    "size": "40 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/pdfreader/400/225"
+  },
+  {
+    "name": "Evernote (MOD, Premium Unlocked)",
+    "description": "Note-taking app with sync across devices. MOD unlocks unlimited notes and offline access.",
+    "category": "Productivity",
+    "size": "80 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/evernote/400/225"
+  },
+  {
+    "name": "Notion (MOD, Premium Unlocked)",
+    "description": "All-in-one workspace for notes and projects. MOD unlocks unlimited blocks and premium features.",
+    "category": "Productivity",
+    "size": "70 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/notion/400/225"
+  },
+  {
+    "name": "Todoist (MOD, Premium Unlocked)",
+    "description": "Task manager with project templates and collaboration. MOD unlocks premium features.",
+    "category": "Productivity",
+    "size": "30 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/todoist/400/225"
+  },
+  {
+    "name": "TickTick (MOD, Premium Unlocked)",
+    "description": "To-do list, calendar, and habit tracker. MOD unlocks all premium themes and features.",
+    "category": "Productivity",
+    "size": "35 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/ticktick/400/225"
+  },
+  {
+    "name": "Headspace (MOD, Premium Unlocked)",
+    "description": "Meditation and sleep aid with guided sessions. MOD unlocks all premium content.",
+    "category": "Health & Fitness",
+    "size": "90 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/headspace/400/225"
+  },
+  {
+    "name": "Calm (MOD, Premium Unlocked)",
+    "description": "Relaxation and sleep stories. MOD unlocks all meditations, sleep stories, and music.",
+    "category": "Health & Fitness",
+    "size": "100 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/calm/400/225"
+  },
+  {
+    "name": "MyFitnessPal (MOD, Premium Unlocked)",
+    "description": "Calorie counter and fitness tracker. MOD unlocks all premium meal plans and insights.",
+    "category": "Health & Fitness",
+    "size": "60 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/myfitnesspal/400/225"
+  },
+  {
+    "name": "Sleep Cycle (MOD, Premium Unlocked)",
+    "description": "Smart alarm that tracks sleep patterns. MOD unlocks all premium insights and alarms.",
+    "category": "Health & Fitness",
+    "size": "40 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/sleepcycle/400/225"
+  },
+  {
+    "name": "Strava (MOD, Premium Unlocked)",
+    "description": "GPS tracking for runners and cyclists. MOD unlocks all premium performance metrics.",
+    "category": "Health & Fitness",
+    "size": "80 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/strava/400/225"
+  },
+  {
+    "name": "Pocket (MOD, Premium Unlocked)",
+    "description": "Save articles and videos to read later. MOD unlocks premium text-to-speech and unlimited highlights.",
+    "category": "News & Reading",
+    "size": "25 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/pocket/400/225"
+  },
+  {
+    "name": "Instapaper (MOD, Premium Unlocked)",
+    "description": "Article saving and reading app. MOD unlocks all premium themes and voice reading.",
+    "category": "News & Reading",
+    "size": "30 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/instapaper/400/225"
+  },
+  {
+    "name": "Tidal (MOD, Premium Unlocked)",
+    "description": "High-fidelity music streaming. MOD unlocks all premium sound quality and offline downloads.",
+    "category": "Music & Audio",
+    "size": "65 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/tidal/400/225"
+  },
+  {
+    "name": "Pandora Premium (MOD, Ad-Free/Unlimited Skips)",
+    "description": "Music streaming with personalized radio. MOD removes ads and unlocks unlimited skips.",
+    "category": "Music & Audio",
+    "size": "55 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/pandora/400/225"
+  },
+  {
+    "name": "Deezer (MOD, Premium Unlocked)",
+    "description": "Stream music with high-quality audio. MOD unlocks all premium features and offline playback.",
+    "category": "Music & Audio",
+    "size": "70 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/deezer/400/225"
+  },
+  {
+    "name": "Facetune (MOD, Premium Unlocked)",
+    "description": "Selfie and portrait retouching app. MOD unlocks all premium editing tools.",
+    "category": "Photo & Video Editing",
+    "size": "50 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/facetune/400/225"
+  },
+  {
+    "name": "YouCam Perfect (MOD, Premium Unlocked)",
+    "description": "Selfie editor with body reshape and beauty tools. MOD unlocks all premium filters.",
+    "category": "Photo & Video Editing",
+    "size": "60 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/youcam/400/225"
+  },
+  {
+    "name": "Snapseed (MOD, Premium Unlocked)",
+    "description": "Professional photo editor with advanced controls. MOD unlocks all extra filters and tools (usually free, but mod adds extra).",
+    "category": "Photo & Video Editing",
+    "size": "50 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/snapseed/400/225"
+  },
+  {
+    "name": "Camera FV-5 (MOD, Premium Unlocked)",
+    "description": "DSLR-like manual camera control. MOD unlocks all pro shooting modes.",
+    "category": "Tools & Utilities",
+    "size": "20 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/camerafv5/400/225"
+  },
+  {
+    "name": "ProCam X (MOD, Premium Unlocked)",
+    "description": "Professional camera app with manual controls. MOD unlocks all features and filters.",
+    "category": "Tools & Utilities",
+    "size": "25 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/procamx/400/225"
+  },
+  {
+    "name": "Weather Widget Pro (MOD, Premium Unlocked)",
+    "description": "Beautiful weather widgets with accurate forecasts. MOD unlocks all themes and features.",
+    "category": "Tools & Utilities",
+    "size": "15 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/weatherwidget/400/225"
+  },
+  {
+    "name": "SD Maid (MOD, Pro Unlocked)",
+    "description": "System cleaning tool for Android. MOD unlocks all pro features and automation.",
+    "category": "Tools & Utilities",
+    "size": "18 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/sdmaid/400/225"
+  },
+  {
+    "name": "Titanium Backup (MOD, Pro Unlocked)",
+    "description": "Backup and restore apps and data. MOD unlocks all pro backup features.",
+    "category": "Tools & Utilities",
+    "size": "12 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/titanium/400/225"
+  },
+  {
+    "name": "Lucky Patcher (MOD, Full Unlocked)",
+    "description": "Patch apps to remove ads and license verification. MOD includes all features.",
+    "category": "Tools & Utilities",
+    "size": "10 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/luckypatcher/400/225"
+  },
+  {
+    "name": "AdGuard (MOD, Premium Unlocked)",
+    "description": "System-wide ad blocker for browsing. MOD unlocks all premium filtering features.",
+    "category": "Tools & Utilities",
+    "size": "25 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/adguard/400/225"
+  },
+  {
+    "name": "AppLock Pro (MOD, Premium Unlocked)",
+    "description": "Lock apps and files with password or fingerprint. MOD unlocks all pro features.",
+    "category": "Tools & Utilities",
+    "size": "12 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/applock/400/225"
+  },
+  {
+    "name": "Nova Launcher (MOD, Prime Unlocked)",
+    "description": "Alternative home screen with deep customization. MOD unlocks all Prime features.",
+    "category": "Tools & Utilities",
+    "size": "25 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/novaprime/400/225"
+  },
+  {
+    "name": "Apex Launcher (MOD, Pro Unlocked)",
+    "description": "Smooth and customizable launcher. MOD unlocks all pro themes and gestures.",
+    "category": "Tools & Utilities",
+    "size": "22 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/apex/400/225"
+  },
+  {
+    "name": "Action Launcher (MOD, Plus Unlocked)",
+    "description": "Innovative launcher with Quickbar and Shutters. MOD unlocks all Plus features.",
+    "category": "Tools & Utilities",
+    "size": "28 MB",
+    "platform": "Android",
+    "image": "https://picsum.photos/seed/actionlauncher/400/225"
+  },
+  {
+    "name": "Zedge Premium (MOD, Unlocked)",
+    "description": "Wallpapers, ringtones, and notification sounds. MOD unlocks all premium content.",
+    "category": "Tools & Utilities",
+    "size": "30 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/zedge/400/225"
+  },
+  {
+    "name": "Shazam Encore (MOD, Premium Unlocked)",
+    "description": "Music identification and lyrics. MOD unlocks all premium features and no ads.",
+    "category": "Music & Audio",
+    "size": "20 MB",
+    "platform": "Android, iOS",
+    "image": "https://picsum.photos/seed/shazam/400/225"
+  }
+]
